@@ -1,0 +1,23 @@
+path to head and shoulders
+
+coef of head and shoulders 1
+
+coef of head and shoulders 2
+
+path to flag
+
+coef of flag 1
+
+coef of flag 2
+
+path to romb
+
+coef of romb 1
+
+coef of romb 2
+
+path to vimpel
+
+coef of vimpel 1
+
+coef of vimpel 2

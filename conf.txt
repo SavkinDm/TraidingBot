@@ -1,0 +1,32 @@
+ApiKey:
+qwerty
+Path to driver:
+C:\Users\Tom\IdeaProjects\keklol\chromedriver.exe
+Login1:
+qft19316@cndps.com
+password1:
+dima09
+Path to Google Chrome Client1:
+C:\Users\Tom\AppData\Local\Google\Chrome\User Data\Default
+Login2:
+qft19316@cndps.com
+password2:
+dima09
+Path to Google Chrome Client2:
+C:\Users\Tom\AppData\Local\Google\Chrome\User Data\Default
+Login3:
+qft19316@cndps.com
+password3:
+dima09
+Path to Google Chrome Client3:
+C:\Users\Tom\AppData\Local\Google\Chrome\User Data\Default
+VpsNumber:
+1
+Proxy1:
+[p
+Proxy2:
+[p
+Proxy3:
+[p
+Path to patterns
+----

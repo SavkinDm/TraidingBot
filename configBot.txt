@@ -1,0 +1,10 @@
+ApiKey:
+asdfgh
+Login:
+qft19316@cndps.com
+password:
+dima09
+Path to Google Chrome Client:
+C:\Users\Tom\AppData\Local\Google\Chrome\User Data\Default
+Path to driver:
+C:\Users\Tom\IdeaProjects\keklol\chromedriver.exe
